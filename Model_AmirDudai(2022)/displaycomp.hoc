@@ -1,0 +1,8 @@
+load_file("nrngui.hoc")
+load_file("import3d.hoc")
+load_file("L5PCbiophys5b.hoc")
+load_file("L5PCtemplate_2.hoc")
+objref cell
+cell = new L5PCtemplate("morphologies/cell1.asc")
+
+load_file("showcomp.ses") // 加载显示每个间室的.ses文件
