@@ -1,6 +1,6 @@
 # tDCS_modulations_of_spike_timing
 
-Code associated with Huang XL, Wei XL, Wang J, Yi GS. (2024). "Effects of dendritic Ca2+ spike in the modulation of neural spike timing with transcranial direct current stimulation in cortical pyramidal neurons." (Accepted)
+Code associated with published paper: "Huang XL, Wei XL, Wang J, Yi GS. Effects of dendritic Ca2+ spike on the modulation of neural spike timing with transcranial direct current stimulation in cortical pyramidal neurons. Journal of Computational Neuroscience, 2025, 53(1): 25-36."
 
 ## Reproduction of paper results:
 1. Compile the `.mod` files in the `Model_AmirDudai(2022)/mods/` and `Model_Schaefer(2003)/mod/`.
